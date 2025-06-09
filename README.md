@@ -28,6 +28,7 @@
 - **Trading Algorithms**: Mostly trend-following algorithms that I use (Private repos). 💹
 - **Back-End Development**: Crafting scalable, efficient systems to handle complex workflows. 🖥️
 - **Database Management and Knowledge Base Enthusiast**: Love learning about databases and their inner workings. 🧑‍💻
+-  **AI agents**: Building an agent for mock interviews. 🧑‍💻
 - **Startup Lover**: Love working at startups and fast-paced environments. 🚀
 
 ### Currently working on:
