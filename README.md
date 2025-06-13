@@ -32,8 +32,8 @@
 - **Startup Lover**: Love working at startups and fast-paced environments. 🚀
 
 ### Currently working on:
-- My own Database Managment System 
-- Collaborating with a few friends to build our own trading chatbot (Flash boys) 
+- An AI voice agent to prep for interviews
+
 
 
 ### Want to collaborate?
