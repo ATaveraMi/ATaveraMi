@@ -32,6 +32,7 @@
 - **Startup Lover**: Love working at startups and fast-paced environments. 🚀
 
 ### Currently working on:
+- SWE/AI Engineer @Kuona Analytics
 - An AI voice agent to prep for interviews
 
 
