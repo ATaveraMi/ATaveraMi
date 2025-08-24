@@ -33,7 +33,7 @@
 
 ### Currently working on:
 - SWE/AI Engineer @Kuona Analytics
-- An AI voice agent to prep for interviews
+- AI Agents for real estate developers
 
 
 
