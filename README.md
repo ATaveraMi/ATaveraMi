@@ -40,7 +40,6 @@
 ### Want to collaborate?
 Send a message to: [andrestavera03@gmail.com](mailto:andrestavera03@gmail.com)
 
-I am starting to use this repository again after working extensively on my previous project. You can expect exciting new updates here! 🚧✨
 
 <img height="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ATaveraMi&layout=compact&langs_count=8&theme=algolia"/>
 
