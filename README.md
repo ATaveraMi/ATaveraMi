@@ -33,7 +33,7 @@
 
 ### Currently working on:
 - SWE/AI Engineer @Kuona Analytics
-- AI Agents for real estate developers
+- Building rialtor.ai | AI Agents for real estate developers
 
 
 
