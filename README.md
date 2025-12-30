@@ -32,7 +32,6 @@
 - **Startup Lover**: Love working at startups and fast-paced environments. 🚀
 
 ### Currently working on:
-- SWE/AI Engineer @Kuona Analytics
 - Building rialtor.ai | AI Agents for real estate developers
 
 
